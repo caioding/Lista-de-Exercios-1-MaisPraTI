@@ -14,7 +14,7 @@ Siga os passos abaixo para configurar o ambiente:
 1. Clone o repositório:
    ```bash
    git clone <URL_DO_REPOSITORIO>
-   cd Lista-de-Exercicios-1-MaisPraTI
+   cd .\Lista-de-Exercios-1-MaisPraTI\
    ```
 
 2. Instale as dependências do projeto:
