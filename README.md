@@ -11,13 +11,41 @@ The exercises cover the fundamentals of programming logic, including:
 
 ---
 
+<<<<<<< HEAD
 ## 🛠️ Technologies Used
+=======
+Siga os passos abaixo para configurar o ambiente:
+
+1. Clone o repositório:
+   ```bash
+   git clone <URL_DO_REPOSITORIO>
+   cd .\Lista-de-Exercios-1-MaisPraTI\
+   ```
+
+2. Instale as dependências do projeto:
+   ```bash
+   npm install -y
+   ```
+
+## Execução
+OBS: Se estiver usando o VS Code, pode utilizar a extensão [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) para executar o arquivo apertanto apenas um botão.
+
+1. Execute o programa:
+   ```bash
+   node <NOME_DO_ARQUIVO>
+   ```
+
+2. Siga as instruções exibidas no terminal para interagir com os exercícios.
+
+## Tecnologias Utilizadas
+>>>>>>> 34032aa9b8986ca275fcebe5b3397d0656a2e7aa
 
 - [Node.js](https://nodejs.org/)
 - [prompt-sync](https://www.npmjs.com/package/prompt-sync) - used to capture user input via terminal.
 
 ---
 
+<<<<<<< HEAD
 ## ⚙️ Installation and Setup
 
 > 💡 **Note**: The `prompt-sync` package is already included in the `package.json`.
@@ -76,3 +104,6 @@ This project is licensed under the [MIT](LICENSE) license.
 Project developed as part of the educational program **+PraTI - Full Stack Jr. Developer**, promoted by [Codifica](https://www.codificaedu.com.br/) and supporters.
 
 ---
+=======
+Este projeto está licenciado sob a licença [MIT](LICENSE).
+>>>>>>> 34032aa9b8986ca275fcebe5b3397d0656a2e7aa
