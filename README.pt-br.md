@@ -12,7 +12,7 @@ Os exercícios abordam os fundamentos da lógica de programação, incluindo:
 
 ## 🛠️ Tecnologias Utilizadas
 
-- [Node.js](https://nodejs.org/)  
+- [Node.js](https://nodejs.org/)  - se não tiver, baixe e instale para executar os arquivos
 - [prompt-sync](https://www.npmjs.com/package/prompt-sync) – usado para capturar entradas do usuário via terminal.
 
 ---

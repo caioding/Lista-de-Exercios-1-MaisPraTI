@@ -12,7 +12,7 @@ The exercises cover the fundamentals of programming logic, including:
 
 ## 🛠️ Technologies Used
 
-- [Node.js](https://nodejs.org/)
+- [Node.js](https://nodejs.org/) - if you don't have it, download and install it to run the files
 - [prompt-sync](https://www.npmjs.com/package/prompt-sync) - used to capture user input via terminal.
 
 ---
