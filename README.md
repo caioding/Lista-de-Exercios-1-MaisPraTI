@@ -1,4 +1,5 @@
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md)
+
 # 📘 +PraTI - Exercise List 1
 
 This repository contains a list of exercises developed in the context of **Module 01 - Introduction to Computer Science: Algorithms and Data Structures**, from the [**+PraTI**](https://www.maisprati.com.br/) program - Dev. Full Stack Jr. (+PraTI & Codifica).
